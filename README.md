@@ -1,4 +1,4 @@
-### After clone git project
+### After cloning the project
 
-- cd container and using <code>npm run dev</code> to start Host App
-- cd home and using <code>npm run dev</code> to start Remote App
+- cd <h2>container</h2> and using <code>npm run dev</code> to start Host App
+- cd <h2>home</h2> and using <code>npm run dev</code> to start Remote App
